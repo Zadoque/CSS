@@ -1,0 +1,8 @@
+div ul{
+    background-color: gray;
+}
+
+ul li{
+    color: white;
+    margin-inline-start: 10px;
+}

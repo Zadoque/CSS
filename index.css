@@ -1,0 +1,26 @@
+p {
+    font-size: 2em;
+    color:brown;
+    width: fit-content;
+    text-align: left;
+    display: inline;
+    float: left;
+
+
+}
+
+h1 {
+    font-size: 2em;
+    color: blue;
+    text-align:  right;
+    float: inline-start;
+    display: inline;
+    
+    
+}
+
+div {
+    display: inline;
+    width: fit-content;
+    
+}
